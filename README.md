@@ -54,7 +54,16 @@ Another feature used is Fetch. It maybe similar to Pull, but there are differenc
 -fetch downloads changes from remote to the local repository, whereas pull downloads the changes and merges them to the current branch.
 
 
+REFERENCE LIST:
+https://stackoverflow.com/questions/292357/what-is-the-difference-between-git-pull-and-git-fetch
 
+https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
+
+https://guides.github.com/activities/hello-world/#intro
+
+https://www.git-tower.com/learn/git/glossary/remote
+
+https://www.jetbrains.com/help/webstorm/getting-started-with-webstorm.html
 
 
 
